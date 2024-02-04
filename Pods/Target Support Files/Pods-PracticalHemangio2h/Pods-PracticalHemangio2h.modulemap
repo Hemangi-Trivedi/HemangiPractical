@@ -1,0 +1,6 @@
+framework module Pods_PracticalHemangio2h {
+  umbrella header "Pods-PracticalHemangio2h-umbrella.h"
+
+  export *
+  module * { export * }
+}
